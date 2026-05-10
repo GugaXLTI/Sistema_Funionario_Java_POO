@@ -62,7 +62,7 @@ Login realizado com sucesso!
 ### CADASTRAR FUNCIONÁRIO ###
 
 Nome: 
-João Silva
+Gustavo Piteira
 Setor: 
 TI
 Tarefa: 
@@ -75,7 +75,7 @@ Salário:
 Funcionário cadastrado!
 
 Digite o nome do funcionário: 
-João Silva
+Gustavo Piteira
 
 Funcionário encontrado!
 
